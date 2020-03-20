@@ -16,5 +16,10 @@
         "service":"1169 345 812",
         "idAccount" : 1234
     }  
+  ],
+  "setState": [
+    {
+      "isSocio": true
+    }
   ]
 }
