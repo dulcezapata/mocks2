@@ -22,5 +22,15 @@
       "isSocio": true
     }
   ],
-  "active" :[]
+  "active" :[],
+  "hasRewards": [
+    {
+      "idAccount" : 1234,
+      "hasRewards" : true
+    },
+    {
+      "idAccount" : 1111,
+      "hasRewards" : false
+    }
+  ],
 }
