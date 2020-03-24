@@ -17,12 +17,6 @@
         "idAccount" : 1234
     }  
   ],
-  "setState": [
-    {
-      "isSocio": true
-    }
-  ],
-  "active" :[],
   "hasRewards": [
     {
       "idAccount" : 1234,
@@ -33,4 +27,10 @@
       "hasRewards" : false
     }
   ],
+  "setState": [
+    {
+      "isSocio": true
+    }
+  ],
+  "active" :[{"active": true}]
 }
